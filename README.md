@@ -82,3 +82,12 @@ university-library-management-system/
 
 ## Version Control
 The team uses Git to track changes and GitHub to store the shared repository, review work, and manage tasks through Issues. Commit messages should clearly describe the change made.
+
+
+## Team Members
+- Muhammad Ahmad Khan - BSSE 3rd Semester
+- Muhammad Kashif Zaman - BSSE 3rd Semester
+
+## 3rd Commit
+This commit adds team member details for Assignment 1 requirement.
+
