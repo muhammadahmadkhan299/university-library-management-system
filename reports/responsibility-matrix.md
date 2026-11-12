@@ -1,21 +1,30 @@
-# Responsibility Assignment Matrix (RACI)
+# Responsibility Assignment Matrix (RAM)
 
-RACI means:
-- **R — Responsible:** does the task.
-- **A — Accountable:** takes final ownership and checks that it is completed.
-- **C — Consulted:** gives input or reviews before completion.
-- **I — Informed:** is kept updated.
+## Team
+- Muhammad Ahmad
+- Muhammad Kahsif Zaman
 
-| Activity | Muhammad Ahmad | Muhammad Kahsif Zaman |
-|---|---|---|
-| Create repository and set up Git | A/R | C |
-| Draft README and project charter | A/R | C — review scope and wording |
-| Prepare WBS | A — final check | R — prepare first draft |
-| Prepare project schedule and Gantt | A — final check | R — prepare first draft |
-| Prepare responsibility matrix | A/R | R — agree to assigned duties |
-| Prepare risk register | A — final check | R — identify and assess risks |
-| Add required folders and files | A/R | C — verify folder structure |
-| Create and assign GitHub Issues | A/R | C — confirm assigned tasks |
-| Review commits and evidence | A | R — peer review and report missing evidence |
+## RACI Legend
+- R = Responsible: performs the work
+- A = Accountable: owns the final result
+- C = Consulted: provides input/review
+- I = Informed: kept updated
 
-**Teamwork note:** This is a proposed assignment of responsibilities. Both members should actually complete their assigned work or review before the team reports it as completed. Update the matrix if the real division of work changes.
+| Task | Muhammad Ahmad | Muhammad Kahsif Zaman | Estimated Effort |
+|---|---|---|---:|
+| GitHub repository | R/A | I | 1 hour |
+| README | R/A | C | 1.5 hours |
+| Project scope | R | C | 1 hour |
+| Objectives | R | C | 30 min |
+| Assumptions and constraints | R | C | 1 hour |
+| WBS | C | R/A | 1.5 hours |
+| Gantt chart | C | R/A | 1.5 hours |
+| Responsibility matrix | R | R | 1 hour |
+| Risk register | R | R | 1 hour |
+| Git installation | R | R | 30 min |
+| Folder creation | R/A | I | 15 min |
+| Git commits | R/A | C | 30 min |
+| GitHub Issues | R | R | 1 hour |
+| Final review | R | R | 1 hour |
+
+**Total estimated effort:** approximately 12.25 person-hours. These are planning estimates, not measured working times.
